@@ -35,10 +35,13 @@ A simple and intuitive to-do list application built with Flutter that allows use
    - Custom colors and fonts are applied using the `google_fonts` package for better visuals.
 
 ## Screenshots
-- **Home Screen**: ![Home Screen](screenshots/Home%20Screen.jpg)
+- **Home Screen**:
+-  ![Home Screen](screenshots/Home%20Screen.jpg)
+
 - **Add/Edit Task Modal**:
-   - ![Edit Task Modal](screenshots/Edit%20Task%20Modal.jpg)
-   - ![Add Task Modal](screenshots/Add%20Task%20Modal.jpg)
+- ![Edit Task Modal](screenshots/Edit%20Task%20Modal.jpg)
+   
+ - ![Add Task Modal](screenshots/Add%20Task%20Modal.jpg)
 
 ## Future Enhancements
 - **Search Functionality**: Add a search bar to filter tasks.
